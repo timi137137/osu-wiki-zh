@@ -7,4 +7,7 @@
 
 * [Windows系统](an-zhuang/windows.md)
 
+---
+
 * [注册](registration.md)
+

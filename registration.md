@@ -4,7 +4,7 @@ _警告：任何时候拥有一个以上的 osu! 账户都违反_ [_osu! 规则_
 
 1. 在 [安装 osu!](https://github.com/timi137137/osu-wiki-zh/tree/55a24cb5d975926c7acd5e4c11b4952c5e2a86b4/wiki/Installation/README.md) 并运行之后，osu!将提示你登入或注册。假如你现在没有账户，请点击 `创建账户`。
 
-   ![&#x6CE8;&#x518C;&#x8868;&#x683C;](.gitbook/assets/ingame-registration.jpg)
+   ![游戏内注册界面](.gitbook/assets/ingame-registration.jpg "注册表格")
 
 2. 填写表格中的字段。
    * 用户名最多只能有15个字符，用户名只能由字母 \(`a-z`, `A-Z`, `0-9`\)，下划线 \(`_`\)，方括号\(`[` 和 `]`\)，破折号\(`-`\)，和空格\( ``\)组成。

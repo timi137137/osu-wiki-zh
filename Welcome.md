@@ -11,7 +11,7 @@ osu!目前拥有以下模式：
 
 ## 你可能感兴趣的内容
 
-- [安装](/Installation)
+- [安装](/Installation/Windows)
 - [注册](/Registration)
 - [规章制度](/Rules)
 - [常见问题](/FAQ)

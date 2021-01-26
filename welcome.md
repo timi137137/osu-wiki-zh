@@ -12,7 +12,7 @@ osu!目前拥有以下模式：
 ## 你可能感兴趣的内容
 
 * [安装](an-zhuang/windows.md)
-* [注册](https://github.com/timi137137/osu-wiki-zh/tree/28c852440d1f498c7b31afa82808e3346582bc7d/Registration/README.md)
+* [注册](registration.md)
 * [规章制度](https://github.com/timi137137/osu-wiki-zh/tree/28c852440d1f498c7b31afa82808e3346582bc7d/Rules/README.md)
 * [常见问题](https://github.com/timi137137/osu-wiki-zh/tree/28c852440d1f498c7b31afa82808e3346582bc7d/FAQ/README.md)
 * [游戏模式](https://github.com/timi137137/osu-wiki-zh/tree/28c852440d1f498c7b31afa82808e3346582bc7d/Game_mode/README.md)

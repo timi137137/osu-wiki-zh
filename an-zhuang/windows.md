@@ -1,6 +1,6 @@
 # Windows系统
 
-_另见：_[_在 macOS 上安装_](an-zhuang/macos.md)
+_另见：_[_在 macOS 上安装_](/an-zhuang/macos.md)
 
 本页面会简单的告诉你如何让 osu! 在 Windows 上运行。
 
@@ -34,7 +34,7 @@ _另见：_[_在 macOS 上安装_](an-zhuang/macos.md)
 
 8. 接下来，登录账号即可游玩。
 
-*如果没有账号，请见[注册](registration.md)*
+*如果没有账号，请见[注册](/registration.md)*
 
 ## 排除问题
 
@@ -76,7 +76,7 @@ _注意：你需要拥有 osu!supporter 标签和互联网连接来使用 osu!di
 
 ## 添加皮肤
 
-_另见：_[_皮肤_](pi-fu/skinning.md)
+_另见：_[_皮肤_](/pi-fu/skinning.md)
 
 1. 前往[皮肤论坛](https://osu.ppy.sh/community/forums/15)找一个你喜欢的皮肤。
 2. 找到了之后就下载。

@@ -52,12 +52,12 @@ _另见：[皮肤制作教程](skinning_tutorial.md)_
 
 噢！这里是 osu!wiki中文 的网站，这里与 osu!wiki 是不一样的。这个网站里大致内容与官方的 osu!wiki 一致，但是由于规矩所限，无法为官方贡献这里的文章。当然！你也可以选择向官方提交自己的一份力！
 
-### osu!wiki中文
+### osu!wiki 中文
 
 从2021年1月26日起，osu!wiki中文 正式独立开站。目前暂时不接受pr（Pull request）但是你可以发邮件到 i@hlmiku.cn 告诉站长你想要贡献的内容。
 
-### 官方osu!wiki
+### 官方 osu!wiki
 
-从2016年8月26日起，osu!wiki 迁移至 Github 仓库，因此官方的工作流程发生了巨大的改变。所有贡献都在 [osu-wiki 的 Github 仓库](https://github.com/ppy/osu-wiki) 内进行，任何改动都必须被审阅并得到批准（Approved）才能被写入 osu!wiki。
+从2016年8月26日起，osu!wiki 迁移至 Github 仓库，因此官方的工作流程发生了巨大的改变。所有贡献都在 [osu-wiki 的 Github 仓库](https://github.com/ppy/osu-wiki) 内进行，任何改动都必须被审阅并得到批准（Approved）才能被写入 osu!wiki 。
 
 你可以查看 [官方osu!wiki 贡献指南](osu!wiki_contribution_guide.md)，获取进一步为 osu!wiki 提供帮助的详细方法。

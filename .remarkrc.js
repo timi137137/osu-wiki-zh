@@ -11,7 +11,7 @@ module.exports = {
   },
   plugins: [
     'preset-lint-markdown-style-guide',
-    ['frontmatter', {type: 'yaml', marker: '*'}],
+    ['frontmatter', {type: 'yaml', marker: '-'}],
     ['lint-definition-case', false],
     ['lint-fenced-code-flag', {allowEmpty: true}],
     ['lint-final-definition', false],

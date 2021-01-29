@@ -10,7 +10,7 @@
 ## 主译者
 
 * [悠静萝莉](https://osu.ppy.sh/users/15282372)
-* lixiangwuxian
+* [lixiangwuxian](https://osu.ppy.sh/users/9880021)
 
 ## 校验者（审阅/润色）
 

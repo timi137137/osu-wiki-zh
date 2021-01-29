@@ -11,7 +11,7 @@ module.exports = {
   },
   plugins: [
     'preset-lint-markdown-style-guide',
-    ['frontmatter', {type: 'yaml', marker: '-'}],
+    ['frontmatter', {type: 'yaml', marker: '*'}],
     ['lint-definition-case', false],
     ['lint-fenced-code-flag', {allowEmpty: true}],
     ['lint-final-definition', false],
@@ -43,7 +43,6 @@ module.exports = {
     ['lint-no-unused-definitions'],
     ['lint-ordered-list-marker-value', 'ordered'],
     ['lint-osu-links'],
-    ['lint-osu-wiki-links'],
     ['lint-table-pipe-alignment', false],
   ],
 };

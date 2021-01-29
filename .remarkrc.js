@@ -1,7 +1,7 @@
 module.exports = {
   settings: {
     commonmark: true,
-    emphasis: '*',
+    emphasis: '_',
     fences: true,
     listItemIndent: '1',
     rule: '-',

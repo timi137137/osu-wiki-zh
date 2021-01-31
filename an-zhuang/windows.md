@@ -12,22 +12,16 @@
 ## 安装 osu!
 
 1. 首先打开 [osu! 官网](https://osu.ppy.sh/) 你应该会看见下图所示样子（如果与下图不同，可能官网已更新。）
-
 2. 点击图片中红框位置的`立即下载`前往下载页。
 ![](../.gitbook/assets/an-zhuang/osu_website_main.png "官网")
-
 3. 随后在下载页中，点击图片中的红框下载 Windows版 osu!
 ![](../.gitbook/assets/an-zhuang/osu_website_download.png "下载页")
-
 4. 等待下载完成后，打开 osu!install.exe 。
 ![](../.gitbook/assets/an-zhuang/osu_download_finish.png "下载完毕")
-
 5. 打开 osu!install.exe 后，会显示下图界面。这时程序会自动联网下载 osu! （如果网速过慢或无法下载请到[贴吧](https://tieba.baidu.com/p/6051142501)。）
 ![](../.gitbook/assets/an-zhuang/osu_install_first.png "安装 osu!")
-
 6. 安装程序在下载完本地化文件后会有10秒时间可以选择安装位置，点击红框位置以选择安装位置。如不选择则默认安装在` %userprofile%AppData\Local `下。
 ![](../.gitbook/assets/an-zhuang/osu_install_select.png "选择安装目录")
-
 7. 安装完毕后会自动打开， osu! 将自动启动并使用 osu!direct 为你下载一些新手谱面。
 
 *注意：部分系统会弹出UAC提示，请点击`是`允许 osu! 的运行![](../.gitbook/assets/an-zhuang/osu_uac.png "UAC提示")*
@@ -90,4 +84,3 @@
      3. 如果 osu! 还开着，你可能需要按下 `Ctrl` + `Alt` + `Shift` + `S` 来让皮肤出现在列表。
      4. 在 osu! 里进入[选项（Options）]()搜索 `皮肤（Skin）`。
      5. 下滑到 `当前皮肤：` 选项，选择下载好的皮肤。
-

@@ -6,18 +6,16 @@
 
 1. 打开你的 osu 点击左上角进入登录页面。
 ![](.gitbook/assets/registration/osu_register_1.png "osu 主页")
-
 2. 点击`Creste an account` （如果是中文则是`注册账号`。）
 ![](.gitbook/assets/registration/osu_register_2.png "osu 登录页")
-
 3. 随后输入个人信息，如下：
 ![](.gitbook/assets/registration/osu_register_3.png "osu 注册页")
 
 | 英文 | 中文 | 解释 |
 | --- | --- | --- |
 | Username | 用户名 | 用户名最多只能有15个字符，用户名只能由字母 \(`a-z`, `A-Z`, `0-9`\)，下划线 \(`_`\)，方括号\(`[` 和 `]`\)，破折号\(`-`\)，和空格\( ``\)组成。用户名修改是需要 [osu!supporter]() 的，请谨慎取名！ |
-|Email Address|邮箱地址|对于电子邮件地址字段，请使用你自己的邮箱。这将在你需要重置密码时给你发送验证码。所以请不要丢失你的邮箱。|
-|Password|用户密码|对于密码，请使用不少于8个字的密码。|
+| Email Address | 邮箱地址 | 对于电子邮件地址字段，请使用你自己的邮箱。这将在你需要重置密码时给你发送验证码。所以请不要丢失你的邮箱。 |
+| Password | 用户密码 | 对于密码，请使用不少于8个字的密码。 |
 
 4. 输入完毕后，点击`Create my account!`。这时如果没有问题，osu! 会自动登录。
 

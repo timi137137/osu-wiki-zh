@@ -1,17 +1,17 @@
 module.exports = {
   settings: {
     commonmark: true,
-    emphasis: '_',
+    emphasis: '*',
     fences: true,
     listItemIndent: '1',
-    rule: '*',
+    rule: '_',
     ruleSpaces: false,
     tablePipeAlign: false,
     tightDefinitions: true,
   },
   plugins: [
     'preset-lint-markdown-style-guide',
-    ['frontmatter', {type: 'yaml', marker: '*'}],
+    ['frontmatter', {type: 'yaml', marker: '_'}],
     ['lint-definition-case', false],
     ['lint-fenced-code-flag', {allowEmpty: true}],
     ['lint-final-definition', false],

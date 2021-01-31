@@ -28,4 +28,3 @@
 一旦完成注册，你就可以开始节奏之旅了。你可以[添加谱面](an-zhuang/windows.md#tian-jia-pu-mian)进行游玩，[制作皮肤](pi-fu/skinning.md)或者[制作谱面]()。你也可以在论坛中的版块[介绍（Introductions）](https://osu.ppy.sh/community/forums/8)来介绍自己。
 
 如果你需要进一步的游戏内帮助，你可以在游戏中通过聊天控制台\(在游戏中按 `F8` 或者 `F9` \) 然后输入`/join help`,在`#help`[IRC]() \(互联网中继聊天\)中寻求帮助。你也可以将你的问题发布在论坛版块[帮助（Help）](https://osu.ppy.sh/community/forums/5)。
-

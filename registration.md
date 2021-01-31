@@ -2,9 +2,9 @@
 
 *警告：任何时候拥有一个以上的 osu! 账户都违反 [规章制度](rules.md) !*
 
-*另见：[安装 osu](an-zhuang/windows.md) 。*
+*另见：[安装 osu!](an-zhuang/windows.md) 。*
 
-1. 打开你的 osu 点击左上角进入登录页面。
+1. 打开你的 osu! 点击左上角进入登录页面。
 ![](.gitbook/assets/registration/osu_register_1.png "osu 主页")
 2. 点击`Creste an account` （如果是中文则是`注册账号`。）
 ![](.gitbook/assets/registration/osu_register_2.png "osu 登录页")
@@ -17,9 +17,9 @@
 | Email Address | 邮箱地址 | 对于电子邮件地址字段，请使用你自己的邮箱。这将在你需要重置密码时给你发送验证码。所以请不要丢失你的邮箱。 |
 | Password | 用户密码 | 对于密码，请使用不少于8个字的密码。 |
 
-4. 输入完毕后，点击`Create my account!`。这时如果没有问题，osu! 会自动登录。
+4. 输入完毕后，点击`Create my account!`。这时，如果没有问题，osu! 会自动登录。
 
-*注意：有时候会遇到图片中所示界面，这是 osu! 检测到你的电脑上有其他账号存在。基于 [规章制度](rules.md)，你不能拥有一个以上账号。如果你确定你的确没有账号请点击第一个按钮确认注册。![](.gitbook/assets/registration/osu_register_warn.png "确认注册页")*
+*注意：有时候会遇到图片中所示界面，这是 osu! 检测到你的电脑上有其他账号存在。基于 [规章制度](rules.md)，你不能拥有一个以上账号。如果你确定你的确没有账号，请点击第一个按钮确认注册。![](.gitbook/assets/registration/osu_register_warn.png "确认注册页")*
 
 ## 接下来做什么？
 

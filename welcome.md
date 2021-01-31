@@ -3,32 +3,32 @@
 欢迎来到 osu! ——由 peppy 开发的一款音乐游戏。
 osu!目前拥有以下模式：
 
-* osu!standard —— 标准
-* osu!taiko —— 太鼓
-* osu!catch —— 接水果
-* osu!mania —— 钢琴
+- osu!standard —— 标准
+- osu!taiko —— 太鼓
+- osu!catch —— 接水果
+- osu!mania —— 钢琴
 
 ## 你可能感兴趣的内容
 
-* [安装](an-zhuang/windows.md)
-* [注册](registration.md)
-* [规章制度](rules.md)
-* [常见问题](faq.md)
-* [游戏模式](game_mode.md)
-  * ![osu!standard 图标](https://osu.ppy.sh/wiki/shared/mode/osu.png) [osu!standard](you-xi-mo-shi/osu!standard.md)
-  * ![osu!taiko 图标](https://osu.ppy.sh/wiki/shared/mode/taiko.png) [osu!taiko](you-xi-mo-shi/osu!taiko.md)
-  * ![osu!catch 图标](https://osu.ppy.sh/wiki/shared/mode/catch.png) [osu!catch](you-xi-mo-shi/osu!catch.md)
-  * ![osu!mania 图标](https://osu.ppy.sh/wiki/shared/mode/mania.png) [osu!mania](you-xi-mo-shi/osu!mania.md)
-* [多人游戏](multi.md)
-* [排名（Rank）标准](ranking_criteria.md)
-  * ![osu!standard 图标](https://osu.ppy.sh/wiki/shared/mode/osu.png) [osu!standard](pai-ming-biao-zhun/osu!standard.md)
-  * ![osu!taiko 图标](https://osu.ppy.sh/wiki/shared/mode/taiko.png) [osu!taiko](pai-ming-biao-zhun/osu!taiko.md)
-  * ![osu!catch 图标](https://osu.ppy.sh/wiki/shared/mode/catch.png) [osu!catch](pai-ming-biao-zhun/osu!catch.md)
-  * ![osu!mania 图标](https://osu.ppy.sh/wiki/shared/mode/mania.png) [osu!mania](pai-ming-biao-zhun/osu!mania.md)
+- [安装](an-zhuang/windows.md)
+- [注册](registration.md)
+- [规章制度](rules.md)
+- [常见问题](faq.md)
+- [游戏模式](game_mode.md)
+  - ![osu!standard 图标](https://osu.ppy.sh/wiki/shared/mode/osu.png) [osu!standard](you-xi-mo-shi/osu!standard.md)
+  - ![osu!taiko 图标](https://osu.ppy.sh/wiki/shared/mode/taiko.png) [osu!taiko](you-xi-mo-shi/osu!taiko.md)
+  - ![osu!catch 图标](https://osu.ppy.sh/wiki/shared/mode/catch.png) [osu!catch](you-xi-mo-shi/osu!catch.md)
+  - ![osu!mania 图标](https://osu.ppy.sh/wiki/shared/mode/mania.png) [osu!mania](you-xi-mo-shi/osu!mania.md)
+- [多人游戏](multi.md)
+- [排名（Rank）标准](ranking_criteria.md)
+  - ![osu!standard 图标](https://osu.ppy.sh/wiki/shared/mode/osu.png) [osu!standard](pai-ming-biao-zhun/osu!standard.md)
+  - ![osu!taiko 图标](https://osu.ppy.sh/wiki/shared/mode/taiko.png) [osu!taiko](pai-ming-biao-zhun/osu!taiko.md)
+  - ![osu!catch 图标](https://osu.ppy.sh/wiki/shared/mode/catch.png) [osu!catch](pai-ming-biao-zhun/osu!catch.md)
+  - ![osu!mania 图标](https://osu.ppy.sh/wiki/shared/mode/mania.png) [osu!mania](pai-ming-biao-zhun/osu!mania.md)
 
 ## 作图
 
-_参考：[作图](beatmapping.md)_
+*参考：[作图](beatmapping.md)*
 
 作图是指谱师们创作一张谱面的过程，通常包含以下步骤:选歌、校准节拍(BPM)、放置物件、测试。当然也可以自定义一些东西，包括但不限于: 添加背景视频、添加[故事板](storyboarding.md)、添加[自定义皮肤](skinning.md) 。
 
@@ -36,15 +36,15 @@ _参考：[作图](beatmapping.md)_
 
 ## 摸图
 
-_参考：[摸图](modding.md)_
+*参考：[摸图](modding.md)*
 
 改图是指玩家们复查（Review）处于待定（Pending）或者是制作中（WIP）状态谱面的过程。这些玩家在控制谱面质量方面扮演了很重要的角色，因为这能让谱师可以根据玩家们的意见修改谱面。
 
 ## 皮肤
 
-_参考：[皮肤](skinning.md)_
+*参考：[皮肤](skinning.md)*
 
-_另见：[皮肤制作教程](skinning_tutorial.md)_
+*另见：[皮肤制作教程](skinning_tutorial.md)*
 
 任何玩家都可以通过使用皮肤来改变 osu! 的外观或改善游玩时的体验。你可以做一些如改变光标这样的微小改动，亦可以重制整个游戏界面，或改变所有游戏模式的外观。
 
@@ -54,7 +54,7 @@ _另见：[皮肤制作教程](skinning_tutorial.md)_
 
 ### osu!wiki 中文
 
-从2021年1月26日起，osu!wiki中文 正式独立开站。目前暂时不接受pr（Pull request），但是你可以发邮件到 i@hlmiku.cn 告诉站长你想要贡献的内容。
+从2021年1月26日起，osu!wiki中文 正式独立开站。目前暂时不接受pr（Pull request）。
 
 ### 官方 osu!wiki
 

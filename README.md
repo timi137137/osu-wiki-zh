@@ -9,18 +9,18 @@
 
 ### 主译者
 
-* [悠静萝莉](https://osu.ppy.sh/users/15282372)
-* [lixiangwuxian](https://osu.ppy.sh/users/9880021)
+- [悠静萝莉](https://osu.ppy.sh/users/15282372)
+- [lixiangwuxian](https://osu.ppy.sh/users/9880021)
 
 ### 校验者（审阅/润色）
 
-* [muziyami](https://osu.ppy.sh/users/7003013)
-* [aurora_fang](https://osu.ppy.sh/users/9887164)
+- [muziyami](https://osu.ppy.sh/users/7003013)
+- [aurora_fang](https://osu.ppy.sh/users/9887164)
 
 ### 官方 osu!wiki 贡献者
 
 官方wiki贡献者有成百上千个，这里将列出最近有贡献的几位前辈。当然，不在列中的贡献者也是需要尊重的！
 
-* [kj415j45](https://osu.ppy.sh/users/9367540)
-* [cdwcgt](https://osu.ppy.sh/users/14721101)
-* Kotoki1337
+- [kj415j45](https://osu.ppy.sh/users/9367540)
+- [cdwcgt](https://osu.ppy.sh/users/14721101)
+- Kotoki1337

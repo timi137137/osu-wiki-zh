@@ -2,7 +2,7 @@
 
 *另见：[在 macOS 上安装](/an-zhuang/macos.md)*
 
-本页面会简单的告诉你如何让 osu! 在 Windows 上运行。
+本页面会简单地告诉你如何让 osu! 在 Windows 上运行。
 
 ## 最低系统要求
 

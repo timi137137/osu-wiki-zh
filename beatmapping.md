@@ -25,7 +25,7 @@
 
 *主页面：[歌曲校时](/wiki/Beatmap_Editor/Timing)*
 
-**校时十分重要！**校时不准的谱面不可能进入排名
+**校时十分重要！**
 Incorrectly timed maps will not be considered for ranking.
 You must make sure that your timing is perfect before adding any [hit objects](/wiki/Hit_Objects).
 

@@ -25,12 +25,9 @@
 
 *主页面：[歌曲校时](/wiki/Beatmap_Editor/Timing)*
 
-**校时十分重要！**
-Incorrectly timed maps will not be considered for ranking.
-You must make sure that your timing is perfect before adding any [hit objects](/wiki/Hit_Objects).
+**校时十分重要！**校时不准的谱面没有参与排名（ranking）的机会。你一定要确保歌曲的校时准确了，才能添加[击打物件](/wiki/Hit_Objects)。
 
-If you are in doubt about timing, contact a mod for help first, or submit your song into the [Beatmap Help forum](https://osu.ppy.sh/community/forums/10).
-This will save you (and the modding community) a lot of hassle later on.
+如果你对校时还有些疑问，可以另寻他人来帮你查查谱面中的毛病，你也可以把你的谱面提交至[谱面帮助栏目（Beatmap Help forum）](https://osu.ppy.sh/community/forums/10)。无论是对你还是对整个查谱社群（Modding Community），这样做都能省去不少麻烦。
 
 ### Compose
 

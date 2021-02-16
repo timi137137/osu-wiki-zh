@@ -1,4 +1,3 @@
-
 # 制谱
 
 在 osu! 中为玩家制作可供游玩的谱面这一过程即为**制谱**。该过程包括选择一首歌曲，[校准节奏与偏移量（Timing）](/wiki/Beatmap_Editor/Timing)，放置击打物件，以及（可选的）[制作皮肤](/wiki/Skinning)与[创作故事板](/wiki/Storyboarding)。
@@ -13,7 +12,7 @@
 
 ### 歌曲信息补全（Song Setup）
 
-*主页面： [Song Setup](/wiki/Song_Setup)*
+*主页面： [Song Setup](/wiki/Beatmap_Editor/Song_Setup)*
 
 当制作一张新谱面时，你最先看到的总会是这个对话框。
 
@@ -25,18 +24,18 @@
 
 *主页面： [歌曲校时](/wiki/Beatmap_Editor/Timing)*
 
-**校时十分重要！**校时不准的谱面没有参与排名（ranking）的机会。你得确保歌曲的校时准确了，再添加[击打物件](/wiki/Hit_Objects)。
+**校时十分重要！**校时不准的谱面没有参与排名（ranking）的机会。你得确保歌曲的校时准确了，再添加[击打物件](/wiki/Hit_object)。
 
 如果你对校时还有些疑问，不妨另寻他人来帮你查查谱面中的毛病，你也可以把你的谱面提交至[谱面帮助论坛区（Beatmap Help forum）](https://osu.ppy.sh/community/forums/10)。无论是对你还是对整个查谱社群（Modding Community），这样做都能省去不少麻烦。
 
 ### 编排物件（Compose）
 
-*主页面： [编排物件](/wiki/Compose)*
+*主页面： [编排物件](/wiki/Beatmap_Editor/Compose)*
 
-你在谱面编辑器中的物件编排（Compose）界面里花费的时间基本是最多的。在这个界面里，你可以放置击打物件并调整它们的[击打音效](/wiki/hit_sounds)。
+你在谱面编辑器中的物件编排（Compose）界面里花费的时间基本是最多的。在这个界面里，你可以放置击打物件并调整它们的[击打音效](/wiki/Beatmapping/Hitsound)。
 
 ### 背景设计（Design）
 
-*主页面: [Design](/wiki/Design) 以及 [故事板创作](/wiki/Storyboarding)*
+*主页面: [Design](/wiki/Beatmap_Editor/Design) 以及 [故事板创作](/wiki/Storyboarding)*
 
 你可以在谱面的背景设计界面中设置背景图片，添加背景视频，和/或创作一个基本的故事板。不过如果你会用 [SBS](/wiki/Storyboard_Scripting)（故事板脚本编写）的话，你可能几乎或完全用不到这个界面。

@@ -9,7 +9,7 @@
 
 ## 新手入门
 
-要创建一个新谱面，请在主界面点击 “Edit” 进入编辑模式，然后从别处向 osu! 界面拖进去一个音频文件（另一种方式是将音频文件拖入 `Songs` 文件夹）。音频文件拖进去后，osu! 就应该会自动转到与你拖入音频文件所对应的谱面编辑项。你选择的新歌曲会在谱面列表的底部以紫色高亮显示。若拖入的歌曲没有出现，那么按一下 `F5` 刷新谱面缓存它应该就能显示出来了。显示出来之后，点一下歌曲，就会进入[谱面编辑器](/wiki/Beatmap_Editor) 并且弹出 `Song Setup` 界面。
+要创建一个新谱面，请在主界面点击 “Edit” 进入编辑模式，然后从别处向 osu! 界面里拖进去一个音频文件（另一种方式是将音频文件拖入 `Songs` 文件夹）。在音频文件拖进去后，osu! 就应该会自动转到与你拖入音频文件所对应的谱面编辑项。你选择的新歌曲会在谱面列表的底部以紫色高亮显示。若拖入的歌曲没有出现，那么按一下 `F5` 刷新谱面缓存，这样它应该就能显示出来了。显示出来之后，点一下歌曲，就会进入[谱面编辑器](/wiki/Beatmap_Editor) 并且弹出 `Song Setup` 界面。
 
 ### 歌曲信息补全（Song Setup）
 
@@ -23,22 +23,20 @@
 
 ### 歌曲校时（Timing）
 
-*主页面：[歌曲校时](/wiki/Beatmap_Editor/Timing)*
+*主页面： [歌曲校时](/wiki/Beatmap_Editor/Timing)*
 
-**校时十分重要！**校时不准的谱面没有参与排名（ranking）的机会。你一定要确保歌曲的校时准确了，才能添加[击打物件](/wiki/Hit_Objects)。
+**校时十分重要！**校时不准的谱面没有参与排名（ranking）的机会。你得确保歌曲的校时准确了，再添加[击打物件](/wiki/Hit_Objects)。
 
-如果你对校时还有些疑问，可以另寻他人来帮你查查谱面中的毛病，你也可以把你的谱面提交至[谱面帮助栏目（Beatmap Help forum）](https://osu.ppy.sh/community/forums/10)。无论是对你还是对整个查谱社群（Modding Community），这样做都能省去不少麻烦。
+如果你对校时还有些疑问，不妨另寻他人来帮你查查谱面中的毛病，你也可以把你的谱面提交至[谱面帮助论坛区（Beatmap Help forum）](https://osu.ppy.sh/community/forums/10)。无论是对你还是对整个查谱社群（Modding Community），这样做都能省去不少麻烦。
 
-### Compose
+### 编排物件（Compose）
 
-*Main page: [Compose](/wiki/Compose)*
+*主页面： [编排物件](/wiki/Compose)*
 
-The compose tab of the beatmap editor is where you will probably spend a majority of your time beatmapping.
-It is where you can visually place hit objects and toggle their [hitsounds](/wiki/hit_sounds)
+你在谱面编辑器中的物件编排（Compose）界面里花费的时间基本是最多的。在这个界面里，你可以放置击打物件并调整它们的[击打音效](/wiki/hit_sounds)。
 
-### Design
+### 背景设计（Design）
 
-*Main page: [Design](/wiki/Design) and [Storyboarding](/wiki/Storyboarding)*
+*主页面: [Design](/wiki/Design) 以及 [故事板创作](/wiki/Storyboarding)*
 
-The design tab of the beatmap editor is where you can set the beatmap's background image, add a video, and/or make a basic storyboard.
-Depending on what you do, you may use the design tab a lot or none at all, if you happen to be doing [SBS](/wiki/Storyboard_Scripting) (storyboard scripting).
+你可以在谱面的背景设计界面中设置背景图片，添加背景视频，和/或创作一个基本的故事板。不过如果你会用 [SBS](/wiki/Storyboard_Scripting)（故事板脚本编写）的话，你可能几乎或完全用不到这个界面。
